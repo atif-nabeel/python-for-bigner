@@ -6,10 +6,10 @@ age2 = age
 name2 = name
 rollnumb2 = 15
 print(name)
-print(rollnumb)
-print (age2)
+print("student rollnumber is :",rollnumb)
+print ("student age is :",age)
 print(name2)
 print(rollnumb2)
-print (age)
+print (age2)
 
 
