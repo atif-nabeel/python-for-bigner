@@ -7,14 +7,14 @@ matric = 805
 matric2 = 925
 
 age2 = age
-name2 = name
+name2 =  "Atif"
 rollnumb2 = 15
 print("*** student Records ***")
 print("student 1 name is :",name)
 print("atudent 1 matric marks is:",matric)
-print("study program is :",study)
-print("student rollnumber is :",rollnumb)
-print ("student age is :",age)
+print(" Student 1 study program is :",study)
+print("student  1 rollnumber is :",rollnumb)
+print ("student 1  age is :",age)
 print("student 2 name is :",name2)
 print("student 2 rollnumb is :",rollnumb2)
 print ("student 2 age is:",age2)
