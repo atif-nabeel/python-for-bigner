@@ -16,6 +16,6 @@ print("student 2 rollnumb is :",rollnumb2)
 print ("student 2 age is:",age2)
 print ("best of luck",name)
 print(35+45)
-print()
+print(70-155)
 
 
