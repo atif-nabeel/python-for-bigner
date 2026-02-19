@@ -1,13 +1,17 @@
 name = "Muhammad Atif Nabeel"
 rollnumb = 77
 study = "BSC"
+study2 = "BSC"
 age = 19
 matric = 805
+matric2 = 925
+
 age2 = age
 name2 = name
 rollnumb2 = 15
+print("*** student Records ***")
 print("student 1 name is :",name)
-print("my matric marks is:",matric)
+print("atudent 1 matric marks is:",matric)
 print("study program is :",study)
 print("student rollnumber is :",rollnumb)
 print ("student age is :",age)
