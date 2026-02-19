@@ -7,7 +7,7 @@ age2 = age
 name2 = name
 rollnumb2 = 15
 print("student 1 name is :",name)
-print(study)
+print("study program is :",study)
 print("student rollnumber is :",rollnumb)
 print ("student age is :",age)
 print("student 2 name is :",name2)
