@@ -23,6 +23,6 @@ print ("student 2 age is:",age2)
 print ("best of luck",name)
 print(35+45)
 print(70-155)
-print(60*7)
+print(60*7,90*55 + 790)
 
 
