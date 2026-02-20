@@ -35,6 +35,9 @@ sum = a +b
 
 print(type(a))
 print (sum)
+c = 3.14
+c = str(c)
+print(type(c))
 
 
 
