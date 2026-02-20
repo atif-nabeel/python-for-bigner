@@ -1,10 +1,12 @@
 # arithematics operators
-a = 29
-b = 77
+a = 4
+b = 3
 print(a + b)
 print(a - b)
 print(a * b)
 print(a / b)
+print(a % b)
+print(a ** b)
 
 
 
