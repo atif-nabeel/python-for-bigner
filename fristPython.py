@@ -17,12 +17,15 @@ print("student  1 rollnumber is :",rollnumb)
 print ("student 1  age is :",age)
 print("student 2 name is :",name2)
 
-
+print("matric marks is :",matric2)
 print("student 2 rollnumb is :",rollnumb2)
 print ("student 2 age is:",age2)
 print ("best of luck",name)
-print(35+45)
-print(70-155)
-print(60*7,90*55 + 790)
+print("*** some Math operation***")
+
+a = 50
+b = 77
+sum = a + b
+print("sum of 2 digits:",sum)
 
 
