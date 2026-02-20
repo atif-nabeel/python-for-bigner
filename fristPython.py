@@ -13,8 +13,8 @@
 print("***logical operator***")
 a = 50
 b = 30
-print ( a>b)
-print (not True)
+print ( not(a>b))
+print (a<b)
 
 
 
