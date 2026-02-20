@@ -2,7 +2,7 @@
 
 num = 10
 
-num /= 5
+num %= 5
 # print(a == b)
 # print(a != b)
 # print(a >= b)
