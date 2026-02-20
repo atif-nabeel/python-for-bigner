@@ -24,9 +24,16 @@
 # print ( not(a>b))
 # print (a<b)
 # Type conversion
-a = 2.76
-b = 15 
-sum = a + b
+# a = 2.76
+# b = 15 
+# sum = a + b
+# print (sum)
+
+a = int("2")
+b = 5
+sum = a +b
+
+print(type(a))
 print (sum)
 
 
