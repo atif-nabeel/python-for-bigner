@@ -14,11 +14,11 @@ print("***logical operator***")
 a = 50
 b = 30
 val1 , val2= True,True
-print("1 OR operator:", val1 or val2)
+print("1 OR operator:", val1 and val2)
 val3 , val4 = False, True
-print("2 OR operator is :", val3 or  val4)
+print("2 OR operator is :", (a == b) or  (a > b))
 val5 , val6 = False , False
-print("3 OR operator is :",val5 or  val6)
+print("3 OR operator is :",(a < b) or  (a < b))
 
 
 # print ( not(a>b))
