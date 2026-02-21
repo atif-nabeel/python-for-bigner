@@ -38,8 +38,8 @@
 # c = 3.14
 # c = str(c)
 # print(type(c))
-name = input("enter your name :")
-print ("Welcome", name)
+val = input("enter your value :")
+print (type(val), val)
 
 
 
