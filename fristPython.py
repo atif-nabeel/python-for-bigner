@@ -38,8 +38,9 @@
 # c = 3.14
 # c = str(c)
 # print(type(c))
-int(input("enter your value :"))
-# p
+val = float(input("enter some value :"))
+print(type(val),val)
+
 
 
 
