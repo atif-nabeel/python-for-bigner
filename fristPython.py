@@ -40,12 +40,16 @@
 # print(type(c))
 # val = float(input("enter some value :"))
 # print(type(val),val)
-name =  input("enter your name:")
-age = input ("enter your age:")
-marks = input("enter your marks:")
-print("Welcome",name)
-print("age",age)
-print("marks = ", marks)
+# name =  input("enter your name:")
+# age = input ("enter your age:")
+# marks = input("enter your marks:")
+# print("Welcome",name)
+# print("age",age)
+# print("marks = ", marks)
+frist = int(input("enter first: "))
+second = int(input("enter second: "))
+
+print("sum", frist + second)
 
 
 
