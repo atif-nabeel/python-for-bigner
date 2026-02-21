@@ -29,15 +29,16 @@
 # sum = a + b
 # print (sum)
 
-a = int("2")
-b = 5
-sum = a +b
+# a = int("2")
+# b = 5
+# sum = a +b
 
-print(type(a))
-print (sum)
-c = 3.14
-c = str(c)
-print(type(c))
+# print(type(a))
+# print (sum)
+# c = 3.14
+# c = str(c)
+# print(type(c))
+input("enter your name")
 
 
 
