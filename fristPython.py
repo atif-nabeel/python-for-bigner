@@ -38,9 +38,8 @@
 # c = 3.14
 # c = str(c)
 # print(type(c))
-# int(input("enter your value :"))
-name = input("enter your name:")
-print("welcome",name)
+int(input("enter your value :"))
+# p
 
 
 
