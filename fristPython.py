@@ -38,8 +38,14 @@
 # c = 3.14
 # c = str(c)
 # print(type(c))
-val = float(input("enter some value :"))
-print(type(val),val)
+# val = float(input("enter some value :"))
+# print(type(val),val)
+name =  input("enter your name:")
+age = input ("enter your age:")
+marks = input("enter your marks:")
+print("Welcome",name)
+print("age",age)
+print("marks = ", marks)
 
 
 
