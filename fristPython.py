@@ -50,11 +50,15 @@
 # second = int(input("enter second: "))
 
 # print("sum", frist + second)
-side = float (input("enter square side :"))
-print("area =" ,side * side )
-a = float(input("enter frist :"))
-b = float(input("enter second :"))
-print ("avg = ",(a +b)/2)
+# side = float (input("enter square side :"))
+# print("area =" ,side * side )
+# a = float(input("enter frist :"))
+# b = float(input("enter second :"))
+# print ("avg = ",(a +b)/2)
+a = int(input("enter frist :"))
+b = int(input("enter second :"))
+print(a>=b)
+print(a<=b)
 
 
 
