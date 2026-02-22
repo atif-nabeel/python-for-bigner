@@ -46,10 +46,12 @@
 # print("Welcome",name)
 # print("age",age)
 # print("marks = ", marks)
-frist = int(input("enter first: "))
-second = int(input("enter second: "))
+# frist = int(input("enter first: "))
+# second = int(input("enter second: "))
 
-print("sum", frist + second)
+# print("sum", frist + second)
+side = float (input("enter square side :"))
+print("area =" ,side * side )
 
 
 
