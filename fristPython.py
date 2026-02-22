@@ -52,6 +52,9 @@
 # print("sum", frist + second)
 side = float (input("enter square side :"))
 print("area =" ,side * side )
+a = float(input("enter frist :"))
+b = float(input("enter second :"))
+print ("avg = ",(a +b)/2)
 
 
 
