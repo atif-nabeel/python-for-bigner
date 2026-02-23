@@ -60,9 +60,12 @@
 # print(a>=b)
 # print(a<=b)
 # print("test")
-str1 = "this is apnacollege's"
-str2 = 'this is a apnacolleg"s tutorial\t nabeel'
-str3 = """This is a string"s \n my name is atif nabeeel"""
+str1 = "this is apnacollege'"
+str2 = 'this is a apnacolleg"s tutorial'
+str3 = """my name is ATif Nabeel"""
+final_str = str1 + str2 + str3
+print(final_str)
+
 print(str1)
 print(str2)
 print(str3)
