@@ -63,16 +63,16 @@
 str1 = "this is apnacollege'"
 str2 = 'this is a apnacolleg"s tutorial'
 str3 = """my name is ATif Nabeel"""
-final_str = str1 + " " + str3
-print(final_str)
-print(len(final_str))
+print(str1[2])
+print(str2[5])
+print(str3[4])
 
-print(str1)
-print(len(str1))
-print(str2)
-print(len(str2))
-print(str3)
-print(len(str3))
+# print(str1)
+# print(len(str1))
+# print(str2)
+# print(len(str2))
+# print(str3)
+# print(len(str3))
 
 
 
