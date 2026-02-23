@@ -65,10 +65,12 @@ str2 = 'this is a apnacolleg"s tutorial'
 str3 = """my name is ATif Nabeel"""
 final_str = str1 + str2 + str3
 print(final_str)
+print(len(final_str))
 
 print(str1)
 print(str2)
 print(str3)
+
 
 
 
