@@ -61,8 +61,8 @@
 # print(a<=b)
 # print("test")
 str1 = "this is apnacollege's"
-str2 = 'this is a apnacolleg"s tutorial'
-str3 = """This is a string"s """
+str2 = 'this is a apnacolleg"s tutorial\t nabeel'
+str3 = """This is a string"s \n my name is atif nabeeel"""
 print(str1)
 print(str2)
 print(str3)
