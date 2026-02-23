@@ -64,11 +64,11 @@ str1 = "this is apnacollege'"
 str2 = 'this is a apnacolleg"s tutorial'
 str3 = """my name is ATif Nabeel"""
 print(str1)
-print(str1[2])
+print(str1[2:6])
 print(str2)
-print(str2[5])
+print(str2[5:8])
 print(str3)
-print(str3[4])
+print(str3[0:6])
 
 # print(str1)
 # print(len(str1))
