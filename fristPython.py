@@ -60,9 +60,9 @@
 # print(a>=b)
 # print(a<=b)
 # print("test")
-str1 = "this is a string"
-str2 = 'this is a string'
-str3 = """This is a string """
+str1 = "this is apnacollege's"
+str2 = 'this is a apnacolleg"s tutorial'
+str3 = """This is a string"s """
 print(str1)
 print(str2)
 print(str3)
