@@ -55,11 +55,17 @@
 # a = float(input("enter frist :"))
 # b = float(input("enter second :"))
 # print ("avg = ",(a +b)/2)
-a = int(input("enter frist :"))
-b = int(input("enter second :"))
-print(a>=b)
-print(a<=b)
-
+# a = int(input("enter frist :"))
+# b = int(input("enter second :"))
+# print(a>=b)
+# print(a<=b)
+# print("test")
+str1 = "this is a string"
+str2 = 'this is a string'
+str3 = """This is a string """
+print(str1)
+print(str2)
+print(str3)
 
 
 
