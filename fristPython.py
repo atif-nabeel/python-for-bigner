@@ -63,11 +63,11 @@
 str1 = "this is apnacollege'"
 str2 = 'this is a apnacolleg"s tutorial'
 str3 = """my name is ATif Nabeel"""
-print(str1)
-print(str1[9:len(str1)])
-print(str2[11:len(str2)])
+# print(str1)
+# print(str1[9:len(str1)])
+print(str2[:len(str2)])
 print(str3)
-print(str3[11:len(str3)])
+print(str3[11:])
 
 # print(str1)
 # print(len(str1))
