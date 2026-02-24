@@ -61,9 +61,9 @@
 # print(a<=b)
 # print("test")
 
-str = "Apple"
-print(str)
-print(str[-3:-1])
+# str = "Apple"
+# print(str)
+# print(str[-3:-1])
 
 # print(str1)
 # print(len(str1))
@@ -71,8 +71,8 @@ print(str[-3:-1])
 # print(len(str2))
 # print(str3)
 # print(len(str3))
-
-
+str = "i am studying python from apnacollege"
+print(str.endswith("ege"))
 
 
 
