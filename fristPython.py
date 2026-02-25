@@ -85,7 +85,7 @@
 # str = "my name is muhammad atif nabeeel"
 # print("lenght of str :",len(str))
 str = "Hi, $iam the $ symbol 99.99"
-print(str.count("$"))
+print(str.count("str"))
 
 
 
