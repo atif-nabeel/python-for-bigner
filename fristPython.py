@@ -80,9 +80,10 @@
 
 # print(str)
 # print(str.count("a"))
-name = input("enter your name :")
-print("lenght of your name is :",len(name))
+# name = input("enter your name :")
+# print("lenght of your name is :",len(name))
 str = "my name is muhammad atif nabeeel"
+print("lenght of str :",len(str))
 
 
 
