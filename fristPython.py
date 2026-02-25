@@ -74,6 +74,7 @@
 str = "my name is atif nabeel"
 
 print(str.replace("my name is atif nabeel"," my name is muhammad faizan and i am a good student"))
+print(str.find("f"))
 print(str)
 
 
