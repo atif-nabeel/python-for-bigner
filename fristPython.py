@@ -71,8 +71,9 @@
 # print(len(str2))
 # print(str3)
 # print(len(str3))
-str = "i am studying python from apnacollege"
-print(str.capitalize())
+str = "my name is atif nabeel"
+
+str = str.capitalize()
 print(str)
 
 
