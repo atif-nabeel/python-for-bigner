@@ -73,7 +73,7 @@
 # print(len(str3))
 str = "my name is atif nabeel"
 
-str = str.capitalize()
+print(str.replace("m","A"))
 print(str)
 
 
