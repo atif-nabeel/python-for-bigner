@@ -79,6 +79,7 @@ print(new_str.find("muhammad faizan"))
 
 
 print(str)
+print(str.find("f"))
 
 
 
