@@ -79,7 +79,7 @@ print(new_str.find("q"))
 
 
 print(str)
-print(str.find("z"))
+print(str.count("atif"))
 
 
 
