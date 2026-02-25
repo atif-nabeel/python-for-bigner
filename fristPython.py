@@ -73,7 +73,7 @@
 # print(len(str3))
 str = "my name is atif nabeel"
 
-print(str.replace("m","A"))
+print(str.replace("atif nabeel"," muhammad faizan"))
 print(str)
 
 
