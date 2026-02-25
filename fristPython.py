@@ -75,11 +75,11 @@ str = "my name is atif nabeel"
 
 new_str = str.replace("my name is atif nabeel"," my name is muhammad faizan and i am a good student")
 print(new_str)
-print(new_str.find("my"))
+print(new_str.find("s"))
 
 
 print(str)
-print(str.find("my"))
+print(str.find("is"))
 
 
 
