@@ -71,15 +71,19 @@
 # print(len(str2))
 # print(str3)
 # print(len(str3))
-str = "my name is atif nabeel"
+# str = "my name is atif nabeel"
 
-new_str = str.replace("my name is atif nabeel"," my name is muhammad faizan and i am a good student")
-print(new_str)
-print(new_str.count("a"))
+# new_str = str.replace("my name is atif nabeel"," my name is muhammad faizan and i am a good student")
+# print(new_str)
+# print(new_str.count("a"))
 
 
-print(str)
-print(str.count("a"))
+# print(str)
+# print(str.count("a"))
+name = input("enter your name :")
+print("lenght of your name is :",len(name))
+str = "my name is muhammad atif nabeeel"
+
 
 
 
