@@ -84,8 +84,11 @@
 # print("lenght of your name is :",len(name))
 # str = "my name is muhammad atif nabeeel"
 # print("lenght of str :",len(str))
-str = "Hi, $iam the $ symbol atif nabeel  99.99"
-print(str.count("a"))
+# str = "Hi, $iam the $ symbol atif nabeel  99.99"
+# print(str.count("a"))
+age = 20
+if(age >= 18):
+  print("you are eligible")
 
 
 
