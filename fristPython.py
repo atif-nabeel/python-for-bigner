@@ -87,8 +87,9 @@
 # str = "Hi, $iam the $ symbol atif nabeel  99.99"
 # print(str.count("a"))
 age = 20
-if(age >= 18):
-  print("you are eligible")
+
+if age <= 23:
+    print("you are not eligible")
 
 
 
