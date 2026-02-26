@@ -88,7 +88,7 @@
 # print(str.count("a"))
 age = 16
 
-if age >= 18:
+if age <=  18:
     print("can vote and apply for licence")
 
 
