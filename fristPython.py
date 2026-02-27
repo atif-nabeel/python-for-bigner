@@ -108,9 +108,9 @@ if(num>45):
     print("greate than 2")
 if(num>3):
     print("greater than 3")
-if(num>22):
+elif(num>22):
     print("greater than 4")
-if(num>=5):
+elif(num>=5):
     print("greater than 5")
 
 
