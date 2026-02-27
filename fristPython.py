@@ -91,11 +91,13 @@
 # if age <=  18:
 #     print("can vote ")
 #     print("can derive")
-light = "red"
+light = "yellow"
 if(light == "green"):
     print("go")
 elif light == "red":
     print("stop")
+elif light == "yellow":
+    print("look")
 
 
 
