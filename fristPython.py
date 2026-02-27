@@ -94,16 +94,21 @@
 # light1 = "green"
 # light2 = "red"
 # light3 = "bron"
-age = 10
+# age = 10
 
 
-if(age > 18):
-    print("your eligible for id card")
-if age >= 10:
-    print(" wait plz")
-if age <= 18:
-    print("look")
-print("end of code")
+# if(age > 18):
+#     print("your eligible for id card")
+# if age >= 10:
+#     print(" wait plz")
+# if age <= 18:
+#     print("look")
+num = 5
+if(num>2):
+    print("greate than 2")
+if(num>3):
+    print("greater than 3")
+
 
 
 
