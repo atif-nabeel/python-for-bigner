@@ -91,15 +91,17 @@
 # if age <=  18:
 #     print("can vote ")
 #     print("can derive")
-light1 = "green"
-light2 = "red"
-light3 = "bron"
+# light1 = "green"
+# light2 = "red"
+# light3 = "bron"
+age = 20
 
-if(light1 == "green"):
-    print("chalo g")
-if light2 == "red":
+
+if(age > 18):
+    print("your eligible for id card")
+if age >= 10:
     print(" wait plz")
-if light3 == "yellow":
+if age <= 18:
     print("look")
 print("end of code")
 
