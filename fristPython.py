@@ -94,7 +94,7 @@
 # light1 = "green"
 # light2 = "red"
 # light3 = "bron"
-age = 20
+age = 10
 
 
 if(age > 18):
