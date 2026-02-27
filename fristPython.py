@@ -92,10 +92,10 @@
 #     print("can vote ")
 #     print("can derive")
 light = "green"
-if(light == "red"):
-    print("stop")
-elif light == "green":
-    print("go")
+if(light == "green"):
+    print("go away")
+# elif light == "green":
+#     print("go")
 
 
 
