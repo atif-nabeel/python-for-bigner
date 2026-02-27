@@ -110,7 +110,7 @@ if(num>3):
     print("greater than 3")
 if(num>4):
     print("greater than 4")
-if(num>5):
+if(num>=5):
     print("greater than 5")
 
 
