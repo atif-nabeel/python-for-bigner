@@ -93,12 +93,12 @@
 #     print("can derive")
 light1 = "green"
 light2 = "red"
-light3 = "yellow"
+light3 = "bron"
 
 if(light1 == "green"):
     print("chalo g")
 if light2 == "red":
-    print("asslam u allikum wait plz")
+    print(" wait plz")
 if light3 == "yellow":
     print("look")
 print("end of code")
