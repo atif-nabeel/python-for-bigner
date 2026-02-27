@@ -103,7 +103,7 @@
 #     print(" wait plz")
 # if age <= 18:
 #     print("look")
-num = 5
+num = 1
 if(num>2):
     print("greate than 2")
 if(num>3):
