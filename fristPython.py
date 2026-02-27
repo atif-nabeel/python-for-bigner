@@ -86,11 +86,16 @@
 # print("lenght of str :",len(str))
 # str = "Hi, $iam the $ symbol atif nabeel  99.99"
 # print(str.count("a"))
-age = 19
+# age = 19
 
-if age <=  18:
-    print("can vote ")
-    print("can derive")
+# if age <=  18:
+#     print("can vote ")
+#     print("can derive")
+light = "green"
+if(light == "red"):
+    print("stop")
+    # elif(light == "green"):
+    #     print("go")
 
 
 
