@@ -99,6 +99,7 @@ elif light == "red":
     print("asslam u allikum wait plz")
 elif light3 == "yellow":
     print("look")
+print("end of code")
 
 
 
