@@ -106,8 +106,10 @@
 num = 5
 if(num>2):
     print("greate than 2")
-elif(num>3):
+if(num>3):
     print("greater than 3")
+if(num>4):
+    print("greater than 4")
 
 
 
