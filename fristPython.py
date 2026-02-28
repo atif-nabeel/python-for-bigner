@@ -116,14 +116,16 @@ name = str(input("enter your name :"))
 print ("Welcome :",name)
 marks = int(input(" enter your marks :"))
 print(name,"your marks is :",marks)
-if (marks >= 90):
+if (marks >= 90 and marks < 100):
     print(name," your grade  is :A")
 elif(marks >= 80 and marks < 90):
     print(name,"your grade is :B")
 elif(marks >= 30 and marks < 45 ):
     print(name,"your are fail")
-elif("marks <= 0 "):
+elif(marks <= 0 ):
     print(name," you are digit is wrog")
+elif(marks > 100 ):
+    print("your marks is wrong beacuse you enter greater then 100")
 else:
     print(" record end ")
 
