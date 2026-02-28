@@ -114,7 +114,9 @@
 #     print("greater than 5")
 name = str(input("enter your name :"))
 print ("your name is :",name)
-marks = int(input("plz enter your marks"))
+marks = int(input("plz enter your marks :"))
+if (marks >= 90):
+    print("grade is : A")
 
     # marks = 
     # if (num>=90):
