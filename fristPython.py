@@ -118,10 +118,15 @@ marks = int(input(" enter your marks :"))
 print("your marks is :",marks)
 if (marks >= 90):
     print("grade  A")
-if(marks >= 80 and marks < 90):
+elif(marks >= 80 and marks < 90):
     print("grade B")
-if(marks >= 30 and marks < 45 ):
+elif(marks >= 30 and marks < 45 ):
     print("your are fail")
+elif("marks == 0 and -"):
+    print(" you are digit is wrog")
+else:
+    print(" record end ")
+
 
     # marks = 
     # if (num>=90):
