@@ -117,7 +117,9 @@ print ("your name is :",name)
 marks = int(input(" enter your marks :"))
 print("your marks is :",marks)
 if (marks >= 90):
-    print("grade is : A")
+    print("grade  A")
+elif(marks >= 80 and marks < 90):
+    print("grade B")
 
     # marks = 
     # if (num>=90):
