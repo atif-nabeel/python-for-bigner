@@ -103,15 +103,22 @@
 #     print(" wait plz")
 # if age <= 18:
 #     print("look")
-num = 15
-if(num>45):
-    print("greate than 2")
-if(num>3):
-    print("greater than 3")
-elif(num>22):
-    print("greater than 4")
-elif(num>=5):
-    print("greater than 5")
+# num = 15
+# if(num>45):
+#     print("greate than 2")
+# if(num>3):
+#     print("greater than 3")
+# elif(num>22):
+#     print("greater than 4")
+# elif(num>=5):
+#     print("greater than 5")
+name = str(input("enter your name :"))
+print ("your name is :",name)
+
+    # marks = 
+    # if (num>=90):
+    #     print("A+")
+    
 
 
 
