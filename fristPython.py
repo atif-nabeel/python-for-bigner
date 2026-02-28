@@ -118,9 +118,9 @@ marks = int(input(" enter your marks :"))
 print("your marks is :",marks)
 if (marks >= 90):
     print("grade  A")
-elif(marks >= 80 and marks < 90):
+if(marks >= 80 and marks < 90):
     print("grade B")
-elif(marks <= 45 and marks == 0):
+if(marks >= 30 and marks < 45 ):
     print("your are fail")
 
     # marks = 
