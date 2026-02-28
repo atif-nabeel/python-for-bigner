@@ -113,17 +113,17 @@
 # elif(num>=5):
 #     print("greater than 5")
 name = str(input("enter your name :"))
-print ("your name is :",name)
+print ("Welcome :",name)
 marks = int(input(" enter your marks :"))
-print("your marks is :",marks)
+print(name,"your marks is :",marks)
 if (marks >= 90):
-    print("grade  A")
+    print(name," your grade  is :A")
 elif(marks >= 80 and marks < 90):
-    print("grade B")
+    print(name,"your grade is :B")
 elif(marks >= 30 and marks < 45 ):
-    print("your are fail")
-elif("marks == 0 and -"):
-    print(" you are digit is wrog")
+    print(name,"your are fail")
+elif("marks <= 0 "):
+    print(name," you are digit is wrog")
 else:
     print(" record end ")
 
