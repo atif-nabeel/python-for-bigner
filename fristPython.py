@@ -128,6 +128,8 @@ elif(marks <= 0 ):
     print(name," you are digit is wrog")
 elif(marks > 100 ):
     print("your marks is wrong beacuse you enter greater then 100")
+elif(marks== str):
+    print("enter only numbers")
 else:
     print(" record end ")
 
