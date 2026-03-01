@@ -120,6 +120,8 @@ if (marks >= 90 and marks < 100):
     print(name," your grade  is :A")
 elif(marks >= 80 and marks < 90):
     print(name,"your grade is :B")
+elif(marks>=45 and marks<80):
+    print("grade is c")
 elif(marks >= 30 and marks < 45 ):
     print(name,"your are fail")
 elif(marks <= 0 ):
