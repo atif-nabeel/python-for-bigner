@@ -112,31 +112,40 @@
 #     print("greater than 4")
 # elif(num>=5):
 #     print("greater than 5")
-name = str(input("enter your name :"))
-print ("Welcome :",name)
-marks = int(input(" enter your marks :"))
-print(name,"your marks is :",marks)
-if (marks >= 90 and marks < 100):
-    print(name," your grade  is :A")
-elif(marks >= 80 and marks < 90):
-    print(name,"your grade is :B")
-elif(marks>=45 and marks<80):
-    print("grade is c")
-elif(marks >= 30 and marks < 45 ):
-    print(name,"iam sorry but you fail")
-elif(marks <= 0 ):
-    print(name," you are digit is wrog")
-elif(marks > 100 ):
-    print("your marks is wrong beacuse you enter greater then 100")
-elif isinstance(marks, str):
-    print("enter only numbers")
-else:
-    print(" record end ")
+# name = str(input("enter your name :"))
+# print ("Welcome :",name)
+# marks = int(input(" enter your marks :"))
+# print(name,"your marks is :",marks)
+# if (marks >= 90 and marks < 100):
+#     print(name," your grade  is :A")
+# elif(marks >= 80 and marks < 90):
+#     print(name,"your grade is :B")
+# elif(marks>=45 and marks<80):
+#     print("grade is c")
+# elif(marks >= 30 and marks < 45 ):
+#     print(name,"iam sorry but you fail")
+# elif(marks <= 0 ):
+#     print(name," you are digit is wrog")
+# elif(marks > 100 ):
+#     print("your marks is wrong beacuse you enter greater then 100")
+# elif isinstance(marks, str):
+#     print("enter only numbers")
+# else:
+#     print(" record end ")
 
 
     # marks = 
     # if (num>=90):
-    #     print("A+")
+    #     print("A+"
+age = 19
+
+if age >= 18:
+    if age >= 80:
+        print("cannot drive")
+    else:
+        print("can drive")
+else:
+    print("cannot drive")
     
 
 
