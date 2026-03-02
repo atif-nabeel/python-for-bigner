@@ -137,18 +137,22 @@
     # marks = 
     # if (num>=90):
     #     print("A+"
-age = int(input("enter your age:"))
+# age = int(input("enter your age:"))
 
-if age >= 18:
-    if age >= 80:
-        print("cannot drive")
-        if age < 18:
-            print("stay home")
-    else:
-        print("can drive")
-else:
-    print("cannot drive")
-    
+# if age >= 18:
+#     if age >= 80:
+#         print("cannot drive")
+#         if age < 18:
+#             print("stay home")
+#     else:
+#         print("can drive")
+# else:
+#     print("cannot drive")
+
+num = int(input("enter number :"))
+rem = num % 2
+if(rem ==0):
+    print("EVEN")
 
 
 
