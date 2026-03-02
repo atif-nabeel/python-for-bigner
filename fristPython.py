@@ -137,11 +137,13 @@
     # marks = 
     # if (num>=90):
     #     print("A+"
-age = 10
+age = 7
 
 if age >= 18:
     if age >= 80:
         print("cannot drive")
+        if age < 18:
+            print("stay home")
     else:
         print("can drive")
 else:
