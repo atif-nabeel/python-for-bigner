@@ -137,7 +137,7 @@
     # marks = 
     # if (num>=90):
     #     print("A+"
-age = 7
+age = int(input("enter your age:"))
 
 if age >= 18:
     if age >= 80:
