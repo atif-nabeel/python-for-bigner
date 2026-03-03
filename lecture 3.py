@@ -10,4 +10,5 @@ print(marks)
 print(marks[1:6])
 print(marks[0:5])
 print(marks[ :6])
+print(marks[3 : ])
 
