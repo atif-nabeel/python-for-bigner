@@ -156,9 +156,17 @@
 #     print("EVEN  ")
 # else:
 #     print("Odd")
-num = 77
-remainder = num % 2
-print("remainder is :",remainder)
+# num = 77
+# remainder = num % 2
+# print("remaainder is :",remainder)
+a = int(input("enter value of a "))
+
+b = int(input("enter value of b"))
+c = int(input("enter value of c"))
+d = int (input("enter value of d"))
+e = int(input("enter value of e"))
+print("values of numbers :",a ,b,c,d ,e)
+
 
 
 
