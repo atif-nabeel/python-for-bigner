@@ -18,6 +18,7 @@ print(list)
 print(list.append(8))
 print(list.sort())
 print(list.sort(reverse=True))
+print(list.reverse)
 print(list)
 
 
