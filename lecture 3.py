@@ -6,3 +6,4 @@
 # print(len(marks))
 student = ["atif", 93, 20,"pindi"]
 print(student)
+print(student[0])
