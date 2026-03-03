@@ -171,10 +171,10 @@ elif( b >= c and b >= d and b >= e and b >= a):
     print ("B is largest :", b)
 elif(c >=b and c>=a and c>=d and c>=e):
     print("C is largest :",c)
-elif(d >= a,b,c,e):
-    print(" D is largest :",d)
+elif( e>= a,b,c,d):
+    print(" E is largest :",e)
 else:
-    print("E is largest :",e)
+    print("D is largest :",d)
 
 
 
