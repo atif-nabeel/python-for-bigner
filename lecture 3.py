@@ -12,4 +12,5 @@ print(marks[0:5])
 print(marks[ :6])
 print(marks[3 : ])
 print(marks[-3:-1])
+print(len(marks[1:4]))
 
