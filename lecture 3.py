@@ -9,4 +9,5 @@ marks  = [45,66,89,76,65,43]
 print(marks)
 print(marks[1:6])
 print(marks[0:5])
+print(marks[ :6])
 
