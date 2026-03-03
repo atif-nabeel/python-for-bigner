@@ -159,6 +159,7 @@
 # num = 77
 # remainder = num % 2
 # print("remaainder is :",remainder)
+print("******* ")
 a = int(input("enter value of a : "))
 
 b = int(input("enter value of b :"))
