@@ -150,7 +150,7 @@
 #     print("cannot drive")
 
 # num = int(input("enter number :"))
-num = 89007
+num = 89006724056275269862862389
 rem = num % 2
 if(rem ==0):
     print("EVEN  ")
