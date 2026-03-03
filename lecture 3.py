@@ -15,4 +15,5 @@
 # print(len(marks[1:4]))
 list =[ 3,5,4,6,2,1,7]
 print(list)
+print(list.append(8))
 
