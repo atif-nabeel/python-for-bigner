@@ -4,8 +4,6 @@
 # print(marks[0])
 # print (marks[1])
 # print(len(marks))
-student = ["atif", 93, 20,"pindi"]
-print(student)
-print(student[0])
-student [0] = 'nabeel'
-print(student)
+print(" List slicing")
+marks  = [45,66,89,76,65,43]
+
