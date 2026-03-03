@@ -20,6 +20,7 @@ print(list.sort())
 # print(list.sort(reverse=True))
 # print(list.reverse)
 print(list.insert(1,9))
+print(list.remove(4))
 print(list)
 
 
