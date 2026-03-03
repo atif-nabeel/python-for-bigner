@@ -150,12 +150,15 @@
 #     print("cannot drive")
 
 # num = int(input("enter number :"))
-num = 89006724056275269862862389
-rem = num % 2
-if(rem ==0):
-    print("EVEN  ")
-else:
-    print("Odd")
+# num = 89006724056275269862862389
+# rem = num % 2
+# if(rem ==0):
+#     print("EVEN  ")
+# else:
+#     print("Odd")
+num = 77
+remainder = num % 2
+print("remainder is :",remainder)
 
 
 
