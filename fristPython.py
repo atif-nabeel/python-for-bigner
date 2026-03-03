@@ -160,12 +160,17 @@
 # remainder = num % 2
 # print("remaainder is :",remainder)
 print("******* ")
-a = int(input("enter value of a : "))
+# a = int(input("enter value of a : "))
 
-b = int(input("enter value of b :"))
-c = int(input("enter value of c :"))
-d = int (input("enter value of d :"))
-e = int(input("enter value of e :"))
+# b = int(input("enter value of b :"))
+# c = int(input("enter value of c :"))
+# d = int (input("enter value of d :"))
+# e = int(input("enter value of e :"))
+a = 44
+b = 88
+c = 6.9
+d = 77
+e = 9
 if(a >= b and a >= c and a >= d and a >= e   ):
     print("  A is largest  :",a)
 elif( b >= c and b >= d and b >= e and b >= a):
@@ -177,6 +182,7 @@ elif( e>= a and  e>=b and e>=c and e>=d):
 else:
     print("D is largest  :",d)
 print(" ***code end ***")
+
 
 
 
