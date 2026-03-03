@@ -165,10 +165,16 @@ b = int(input("enter value of b :"))
 c = int(input("enter value of c :"))
 d = int (input("enter value of d :"))
 e = int(input("enter value of e :"))
-if(a >= b and a >= c ):
-    print("  a is largest then b and c :",a)
-elif( b >= c and b >= d and b >= e):
+if(a >= b and a >= c and a >= d and a >= e   ):
+    print("  A is largest  :",a)
+elif( b >= c and b >= d and b >= e and b >= a):
     print ("B is largest :", b)
+elif(c >=b and c>=a and c>=d and c>=e):
+    print("C is largest :",c)
+elif(d >= a,b,c,e):
+    print(" D is largest :",d)
+else:
+    print("E is largest :",e)
 
 
 
