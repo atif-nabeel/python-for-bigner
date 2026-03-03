@@ -6,4 +6,5 @@
 # print(len(marks))
 print(" List slicing")
 marks  = [45,66,89,76,65,43]
+print(marks)
 
