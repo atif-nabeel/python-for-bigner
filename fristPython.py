@@ -165,9 +165,9 @@ b = int(input("enter value of b :"))
 c = int(input("enter value of c :"))
 d = int (input("enter value of d :"))
 e = int(input("enter value of e :"))
-if(a >= b and b >= c and c >= d and d >= e):
-    print("  a is greatest number",a)
-    
+if(a > b and b >= c ):
+    print("  a is greatest then b and c ",a)
+
 
 
 
