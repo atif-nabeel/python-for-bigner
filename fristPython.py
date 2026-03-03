@@ -179,10 +179,10 @@ print("******* ")
 #     print("D is largest  :",d)
 # print(" ***code end ***")
 x = int(input("enter number :"))
-if (x % 13 == 0):
-    print("multiple of 13 :",x)
+if (x % 17 == 0):
+    print("multiple of 17 :",x)
 else:
-    print("not multiple of  13")
+    print("not multiple of  17")
 print(" code is end")
 
 
