@@ -7,3 +7,5 @@
 student = ["atif", 93, 20,"pindi"]
 print(student)
 print(student[0])
+student [0] = 'nabeel'
+print(student)
