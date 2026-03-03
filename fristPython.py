@@ -159,13 +159,15 @@
 # num = 77
 # remainder = num % 2
 # print("remaainder is :",remainder)
-a = int(input("enter value of a "))
+a = int(input("enter value of a : "))
 
-b = int(input("enter value of b"))
-c = int(input("enter value of c"))
-d = int (input("enter value of d"))
-e = int(input("enter value of e"))
-print("values of numbers :",a ,b,c,d ,e)
+b = int(input("enter value of b :"))
+c = int(input("enter value of c :"))
+d = int (input("enter value of d :"))
+e = int(input("enter value of e :"))
+if(a >= b and b >= c and c >= d and d >= e):
+    print("  a is greatest number",a)
+    
 
 
 
