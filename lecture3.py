@@ -40,5 +40,6 @@
 grade = ( "A" ,"D","A","F","A","B","C","B")
 
 print(grade.count("B"))
+print(grade.index("A"))
 
 
