@@ -13,21 +13,23 @@
 # print(marks[3 : ])
 # print(marks[-3:-1])
 # print(len(marks[1:4]))
-print("********")
-list =[ 3,5,4,6,2,1,7]
-print(list)
-print(list.append(8))
-print(list)
-print(list.sort())
-print(list)
-print(list.sort(reverse=True))
-print(list)
+# print("********")
+# list =[ 3,5,4,6,2,1,7]
+# print(list)
+# print(list.append(8))
+# print(list)
+# print(list.sort())
+# print(list)
+# print(list.sort(reverse=True))
+# print(list)
 
 
-print(list.insert(1,9))
-print(list)
-print(list.pop(2))
-print(list)
-print("*** ******")
+# print(list.insert(1,9))
+# print(list)
+# print(list.pop(2))
+# print(list)
+# print("*** ******")
+tup = ( 23,56,78,90,64,23)
+print(tup)
 
 
