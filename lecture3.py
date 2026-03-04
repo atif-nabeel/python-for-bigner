@@ -29,13 +29,21 @@
 # print(list.pop(2))
 # print(list)
 # print("*** ******")
-movies = []
-movies .append(input("enter 1st movie :"))
-movies .append( input("enter 2nd movie :"))
-movies.append (input("enter 3rd movie :"))
+# movies = []
+# movies .append(input("enter 1st movie :"))
+# movies .append( input("enter 2nd movie :"))
+# movies.append (input("enter 3rd movie :"))
 # movies .append(mov1)
 # movies .append(mov2)
 # movies .append (mov3)
-print(movies)
+# print(movies)
+list1 = [1,2,1]
+list2 = [1,2,3]
+copy_list1 = list1.copy()
+copy_list1 = list1.reverse()
+if(copy_list1 == list1):
+  print("palindrome")
+else:
+  print("not palindrome")
 
 
