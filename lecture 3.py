@@ -36,5 +36,6 @@ print(type(tup))
 print(len(tup))
 print(tup[0:5])
 print(tup[-6:-3])
+print(tup[4:6])
 
 
