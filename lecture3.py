@@ -29,15 +29,13 @@
 # print(list.pop(2))
 # print(list)
 # print("*** ******")
-tup = ( 23,56,78,90,64,23,56,56,56,56)
-print(tup)
-print(tup[1])
-print(type(tup))
-print(len(tup))
-print(tup[0:5])
-print(tup[-6:-3])
-print(tup[4:6])
-print(tup.index(56))
-print(tup.count(56))
+movies = []
+mov1 = input("enter 1st movie :")
+mov2 = input("enter 2nd movie :")
+mov3 = input("enter 3rd movie :")
+movies .append(mov1)
+movies .append(mov2)
+movies .append (mov3)
+print(movies)
 
 
