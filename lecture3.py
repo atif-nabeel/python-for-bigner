@@ -39,6 +39,6 @@
 # print(movies)
 grade = ( "A" ,"D","A","F","A","B","C","B")
 
-print(grade.count("A"))
+print(grade.count("B"))
 
 
