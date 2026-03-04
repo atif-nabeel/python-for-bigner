@@ -29,7 +29,7 @@
 # print(list.pop(2))
 # print(list)
 # print("*** ******")
-tup = ( 23,56,78,90,64,23)
+tup = ( 23,56,78,90,64,23,56,56,56,56)
 print(tup)
 print(tup[1])
 print(type(tup))
