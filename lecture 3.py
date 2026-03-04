@@ -33,5 +33,6 @@ tup = ( 23,56,78,90,64,23)
 print(tup)
 print(tup[1])
 print(type(tup))
+print(len(tup))
 
 
