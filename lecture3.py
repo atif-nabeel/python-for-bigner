@@ -37,10 +37,12 @@
 # movies .append(mov2)
 # movies .append (mov3)
 # print(movies)
-grade = ( "A" ,"D","A","F","A","B","C","B")
+grade = ["A" ,"D","A","F","A","B","C","B"]
+grade.sort()
+print(grade)
 
 print(grade.count("B"))
-print(grade.index("A"))
+
 print(len(grade))
 
 
