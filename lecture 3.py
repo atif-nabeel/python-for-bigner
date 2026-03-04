@@ -38,5 +38,6 @@ print(tup[0:5])
 print(tup[-6:-3])
 print(tup[4:6])
 print(tup.index(56))
+print(tup.count(56))
 
 
