@@ -38,6 +38,7 @@ print(Student.values())
 print(list(Student.values()))
 print(list(Student.items()))
 print(Student.get("name"))
+print(Student.get("name2"))
 
 
 
