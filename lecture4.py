@@ -7,6 +7,7 @@ student = {
   "subjects" : [ "python","c","javascript","css"],
 }
 print(dict)
+student["Name"] = "Nabeel"
 print(student["Name"])
 print(student["age"])
 print(student["CGPA"])
