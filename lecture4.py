@@ -35,6 +35,7 @@ Student ={
 print(Student.keys())
 print(list(Student.keys()))
 print(Student.values())
+print(list(Student.values()))
 
 
 
