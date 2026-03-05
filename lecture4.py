@@ -33,6 +33,6 @@ Student ={
   }
 }
 print(Student)
-print(Student["score"])
+print(Student["score"]["math"])
 
 
