@@ -8,4 +8,5 @@ dict = {
 }
 print(dict)
 print(dict["age"])
+print(dict["CGPA"])
 
