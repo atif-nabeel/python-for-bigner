@@ -1,5 +1,5 @@
 print("***** Dictionaries ******")
-dict = {
+student = {
   "Name" : "Atif",
   "CGPA"  : 3.8,
   "age"  :  20,
@@ -7,7 +7,9 @@ dict = {
   "subjects" : [ "python","c","javascript","css"],
 }
 print(dict)
-print(dict["Name"])
-print(dict["age"])
-print(dict["CGPA"])
+print(student["Name"])
+print(student["age"])
+print(student["CGPA"])
+print(student["marks"])
+print(student["subjects"])
 
