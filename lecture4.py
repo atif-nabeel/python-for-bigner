@@ -26,12 +26,13 @@
 Student ={
   "name" : " Atif nabeel",
   "age" : 20,
-  "scrore" : {
+  "score" : {
     "comput" : 98,
     "math" : 98,
     "phy" : 97,
   }
 }
 print(Student)
+print(Student["score"])
 
 
