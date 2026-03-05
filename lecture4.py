@@ -32,7 +32,7 @@ Student ={
     "phy" : 97,
   }
 }
-print(Student)
-print(Student["score"]["math"])
+print(Student.keys())
+
 
 
