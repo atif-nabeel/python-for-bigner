@@ -7,6 +7,7 @@ dict = {
   "subjects" : [ "python","c","javascript","css"],
 }
 print(dict)
+print(dict["Name"])
 print(dict["age"])
 print(dict["CGPA"])
 
