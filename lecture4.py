@@ -55,6 +55,7 @@ student = {
  
 }
 print(student)
+print(len(student))
 
 
 
