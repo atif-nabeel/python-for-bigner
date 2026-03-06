@@ -49,11 +49,12 @@
 # set2 = {1,5,7,8,10,12}
 # print(collection.union(set2))
 # print(collection.intersection(set2))
-dict = {
-  "cat " : " a small animal",
-  "table" : ["a piece of furniture ", " list of fact"],
+student = {
+  "python","java","javascript","c++","c","html"
+
+ 
 }
-print(dict)
+print(student)
 
 
 
