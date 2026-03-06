@@ -50,7 +50,7 @@ print(collection)
 print(type(collection))
 collection.remove(4)
 collection.add(6)
-collection.clear()
+print(len(collection))
 print(collection)
 
 
