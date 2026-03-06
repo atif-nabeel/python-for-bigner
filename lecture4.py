@@ -49,11 +49,10 @@
 # set2 = {1,5,7,8,10,12}
 # print(collection.union(set2))
 # print(collection.intersection(set2))
-marks = {
-("float ",9.0),
-("int",9)
-}
-print(marks)
+# count = 1 
+while True :
+  print("Hello")
+  # count += 1
 
 
 
