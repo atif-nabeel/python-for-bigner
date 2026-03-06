@@ -49,13 +49,14 @@
 # set2 = {1,5,7,8,10,12}
 # print(collection.union(set2))
 # print(collection.intersection(set2))
-student = {
-  "python","java","javascript","c++","c","html"
-
- 
-}
-print(student)
-print(len(student))
+marks = {}
+x = int(input("enter phy :"))
+marks.update({"phy":x})
+x = int(input("enter math :"))
+marks.update({"math":x})
+x = int(input("enter comp :"))
+marks .update({"comp":x})
+print(marks)
 
 
 
