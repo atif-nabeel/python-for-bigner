@@ -51,6 +51,7 @@ print(type(collection))
 collection.remove(4)
 collection.add(6)
 print(len(collection))
+collection.pop()
 print(collection)
 
 
