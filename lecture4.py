@@ -47,6 +47,7 @@
 # print(Student)
 collection = {1,2,3,4,"hello","Atif"}
 print(collection)
+print(type(collection))
 
 
 
