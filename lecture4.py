@@ -45,14 +45,10 @@
 # new_dict = { "city" : "islamabad", " age " : 16}
 # Student.update(new_dict)
 # print(Student)
-collection = {1,2,3,4,"hello","Atif"}
-print(collection)
-print(type(collection))
-collection.remove(4)
-collection.add(6)
-print(len(collection))
-collection.pop()
-print(collection)
+collection = {1,2,3,4,6,9}
+set2 = {1,5,7,8,10,12}
+print(collection.union(set2))
+
 
 
 
