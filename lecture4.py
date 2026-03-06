@@ -49,10 +49,10 @@
 # set2 = {1,5,7,8,10,12}
 # print(collection.union(set2))
 # print(collection.intersection(set2))
-i = 1 
-while i <= 10000:
-  print("Atif",i)
-  i +=1
+i = 5
+while i < 6 :
+  print(i)
+  i -=1
 
 
 
