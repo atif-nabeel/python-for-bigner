@@ -50,12 +50,14 @@
 # print(collection.union(set2))
 # print(collection.intersection(set2))
 marks = {}
-x = int(input("enter phy :"))
-marks.update({"phy":x})
-x = int(input("enter math :"))
-marks.update({"math":x})
-x = int(input("enter comp :"))
-marks .update({"comp":x})
+x1 = int(input("enter phy :"))
+marks.update({"phy":x1})
+x2 = int(input("enter math :"))
+marks.update({"math":x2})
+x3 = int(input("enter comp :"))
+marks .update({"comp":x3})
+avarge = (x1 + x2 + x3)/3
+print("avarge =",avarge)
 print(marks)
 
 
