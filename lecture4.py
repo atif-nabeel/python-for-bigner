@@ -45,7 +45,8 @@
 # new_dict = { "city" : "islamabad", " age " : 16}
 # Student.update(new_dict)
 # print(Student)
-colllection = set()
+collection = {1,2,3,4,"hello","Atif"}
+print(collection)
 
 
 
