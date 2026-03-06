@@ -45,10 +45,12 @@
 # new_dict = { "city" : "islamabad", " age " : 16}
 # Student.update(new_dict)
 # print(Student)
-collection = {1,2,3,4,6,9}
-set2 = {1,5,7,8,10,12}
-print(collection.union(set2))
-print(collection.intersection(set2))
+# collection = {1,2,3,4,6,9}
+# set2 = {1,5,7,8,10,12}
+# print(collection.union(set2))
+# print(collection.intersection(set2))
+set1 = { "Atif","nabeel","Faizan","Rehman","zohaib"," Ahmed"}
+print(set1.pop())
 
 
 
