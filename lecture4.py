@@ -49,6 +49,7 @@ collection = {1,2,3,4,"hello","Atif"}
 print(collection)
 print(type(collection))
 collection.remove(4)
+collection.add(6)
 print(collection)
 
 
