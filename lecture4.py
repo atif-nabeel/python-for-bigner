@@ -50,7 +50,8 @@
 # print(collection.union(set2))
 # print(collection.intersection(set2))
 set1 = { "Atif","nabeel","Faizan","Rehman","zohaib"," Ahmed"}
-print(set1.pop())
+set2 = { "atif"," masood"," soban", " qasim"}
+print(set1.union(set2))
 
 
 
