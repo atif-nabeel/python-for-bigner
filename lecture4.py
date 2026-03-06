@@ -49,9 +49,12 @@
 # set2 = {1,5,7,8,10,12}
 # print(collection.union(set2))
 # print(collection.intersection(set2))
-set1 = { "Atif","nabeel","Faizan","Rehman","zohaib"," Ahmed"}
-set2 = { "atif"," masood"," soban", " qasim"}
-print(set1.union(set2))
+dict = {
+  "cat " : " a small animal",
+  "table" : ["a piece of furniture ", " list of fact"],
+}
+print(dict)
+
 
 
 
