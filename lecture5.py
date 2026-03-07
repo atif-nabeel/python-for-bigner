@@ -11,7 +11,13 @@
 #   i +=1
 num = [1,3,5,6,7,4,9,10,45,78,89]
 student = ["atif","nabeel","faizi","rs"]
+
+x = "faizi"
 i = 0
+
 while i < len(student):
-  print(student[i])
-  i +=1
+    if student[i] == x:
+        print("found at idx", i)
+    else:
+        print("finding..")
+    i += 1
