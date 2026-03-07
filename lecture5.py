@@ -1,5 +1,5 @@
-i = -1
-while i >= -9 :
+i = 1 
+while i >= -1:
   print( i)
   i -= 1
 
