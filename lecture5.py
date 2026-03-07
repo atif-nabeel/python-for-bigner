@@ -11,7 +11,7 @@
 #   i +=1
 num = [1,3,5,6,7,4,9,10,45,78,89]
 student = ["atif","nabeel","faizi","rs"]
-idx = 0
-while idx < len(student):
-  print(student[idx])
-  idx +=1
+i = 0
+while i < len(student):
+  print(student[i])
+  i +=1
