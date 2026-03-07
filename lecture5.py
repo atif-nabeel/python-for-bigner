@@ -1,7 +1,5 @@
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-while True :
+i = 1
+while i <= 7 :
   print("Atif")
+  i += 1
 
