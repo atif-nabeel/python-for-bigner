@@ -9,10 +9,10 @@
 # while i <= 10:
 #   print(n*i)
 #   i +=1
-num = [1,3,5,6,7,4,9,10,45,78,89]
+num =(1,4,5,6,7,8,9,5,8)
 # student = ["atif","nabeel","faizi","rs"]
 
-x = 6,78,10
+x = 6
 i = 0
 
 while i < len(num):
