@@ -12,12 +12,12 @@
 num =(1,4,5,6,7,8,9,5,8)
 # student = ["atif","nabeel","faizi","rs"]
 
-x = 6
+x = [ 4,6,9]
 i = 0
 
 while i < len(num):
-    if num[i] == x:
-        print("found at idx", i)
+    if num[i] in x:
+        print("found at idx",num[i] ,i)
     else:
         print("finding..")
     i += 1
