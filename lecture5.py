@@ -10,13 +10,13 @@
 #   print(n*i)
 #   i +=1
 num = [1,3,5,6,7,4,9,10,45,78,89]
-student = ["atif","nabeel","faizi","rs"]
+# student = ["atif","nabeel","faizi","rs"]
 
-x = "atif"
+x = 6
 i = 0
 
-while i < len(student):
-    if student[i] == x:
+while i < len(num):
+    if num[i] == x:
         print("found at idx", i)
     else:
         print("finding..")
