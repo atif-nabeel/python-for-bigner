@@ -1,5 +1,6 @@
 i = 1
 while i <= 7 :
-  print("i")
+  print(i)
   i += 1
 
+print (" loop ending")
