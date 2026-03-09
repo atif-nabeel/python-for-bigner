@@ -47,3 +47,7 @@ for val in num:
     print (val)
     print(type(val))
     print(len(val))
+
+tup = (1,4,3,2,5,6,7)
+for val in tup:
+    print(val)
