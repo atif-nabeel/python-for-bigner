@@ -42,6 +42,6 @@
 #     print(i)
 #     i += 1
 
-num = [1,2,3,4,5,56,7,8]
+num =(1,4,7,9,8,5,77)
 for val in num:
     print (val)
