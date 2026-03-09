@@ -27,9 +27,16 @@
 #     if i == 3:
 #         break
 #     i += 1
+# i = 0
+# while i <= 15:
+#     if(i%2 ==0):
+#         i += 1
+#         continue
+#     print(i)
+#     i += 1
 i = 0
-while i <= 15:
-    if(i%2 ==0):
+while i <= 100:
+    if(i%7 ==0):
         i += 1
         continue
     print(i)
