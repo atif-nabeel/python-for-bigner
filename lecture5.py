@@ -45,3 +45,4 @@
 num =["muhammad","Atif","Nabeel"]
 for val in num:
     print (val)
+    print(type(val))
