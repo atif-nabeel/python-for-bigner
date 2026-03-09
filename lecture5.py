@@ -51,7 +51,9 @@ for val in num:
 tup = (1,4,3,2,5,6,7)
 for val in tup:
     print(val)
+    print(type(tup))
 
 str = " Atif nabeel"
 for char in str:
     print(char)
+    print(type(str))
