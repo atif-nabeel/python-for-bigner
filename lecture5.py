@@ -46,7 +46,7 @@ num =["muhammad","Atif","Nabeel"]
 for val in num:
     print (val)
     print(type(val))
-    print(len(val))
+    print(len(num))
 
 tup = (1,4,3,2,5,6,7)
 for val in tup:
