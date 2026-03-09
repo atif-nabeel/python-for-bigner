@@ -34,10 +34,14 @@
 #         continue
 #     print(i)
 #     i += 1
-i = 0
-while i <= 100:
-    if(i%7 != 0):
-        i += 1
-        continue
-    print(i)
-    i += 1
+# i = 0
+# while i <= 100:
+#     if(i%7 != 0):
+#         i += 1
+#         continue
+#     print(i)
+#     i += 1
+
+num = [1,2,3,4,5,56,7,8]
+for val in num:
+    print (val)
