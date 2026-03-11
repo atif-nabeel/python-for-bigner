@@ -55,6 +55,6 @@
 
 str = " kashif nabeel"
 for char in str:
-    print(char)
-    print(type(str))
-    print(len(str))
+    print(str)
+    # print(type(str))
+    # print(len(str))
