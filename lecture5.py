@@ -42,18 +42,18 @@
 #     print(i)
 #     i += 1
 
-num =["muhammad","Atif","Nabeel"]
-for val in num:
-    print (val)
-    print(type(val))
-    print(len(num))
+# num =["muhammad","Atif","Nabeel"]
+# for val in num:
+#     print (val)
+#     print(type(val))
+#     print(len(num))
 
-tup = (1,4,3,2,5,6,7)
-for val in tup:
-    print(val)
-    print(type(tup))
+# tup = (1,4,3,2,5,6,7)
+# for val in tup:
+#     print(val)
+#     print(type(tup))
 
-str = " Atif nabeel"
+str = " kashif nabeel"
 for char in str:
     print(char)
     print(type(str))
