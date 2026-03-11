@@ -53,9 +53,9 @@
 #     print(val)
 #     print(type(tup))
 
-str = " kashif nabeel"
+str = " *** kashif nabeel ***"
 for char in str:
     print(str)
-    print("END")
+    print("END ")
     # print(type(str))
     # print(len(str))
