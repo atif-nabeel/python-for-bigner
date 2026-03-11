@@ -54,8 +54,14 @@
 #     print(type(tup))
 
 str = " *** kashif nabeel ***"
+
 for char in str:
-    print(str)
-    print("END ")
+    if(char == 'n'):
+        print("n found")
+        break
+    print(char)
+
+else:
+    print("END")
     # print(type(str))
     # print(len(str))
