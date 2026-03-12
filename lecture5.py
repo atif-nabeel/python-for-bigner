@@ -63,5 +63,5 @@ for char in str:
 
 else:
     print("END")
-    # print(type(str))
-    # print(len(str))
+    print(type(str))
+    print(len(str))
