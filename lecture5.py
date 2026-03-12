@@ -67,7 +67,7 @@
 #     print(len(str))
 
 num = [34, 67, 97, 57, 45, 98]
-x = 98
+x = 10
 idx = 0
 for val in num:
     if val == x:      # x ko variable ke taur par check karna
