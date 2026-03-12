@@ -68,4 +68,4 @@
 
 num = [ 34,67,97,57,45,98]
 for val in num:
-    print(num)
+    print(val)
