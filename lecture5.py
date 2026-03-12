@@ -66,11 +66,14 @@
 #     print(type(str))
 #     print(len(str))
 
-num = [34, 67, 97, 57, 45, 98]
-x = 10
-idx = 0
-for val in num:
-    if val == x:      # x ko variable ke taur par check karna
-        print("x is at index", idx)
-    idx += 1          # har element ke liye increment
+# num = [34, 67, 97, 57, 45, 98]
+# x = 10
+# idx = 0
+# for val in num:
+#     if val == x:      # x ko variable ke taur par check karna
+#         print("x is at index", idx)
+#     idx += 1          # har element ke liye increment
+seq = range(5)
+print(seq[0])
+print(seq[1])
   
