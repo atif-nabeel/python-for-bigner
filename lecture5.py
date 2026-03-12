@@ -53,15 +53,19 @@
 #     print(val)
 #     print(type(tup))
 
-str = " Atif nabeel"
+# str = " Atif nabeel"
 
-for char in str:
-    if(char == 's'):
-        print("s found")
-        break
-    print(char)
+# for char in str:
+#     if(char == 's'):
+#         print("s found")
+#         break
+#     print(char)
 
-else:
-    print("END")
-    print(type(str))
-    print(len(str))
+# else:
+#     print("END")
+#     print(type(str))
+#     print(len(str))
+
+num = [ 34,67,97,57,45,98]
+for val in num:
+    print(num)
