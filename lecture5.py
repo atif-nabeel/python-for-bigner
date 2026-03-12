@@ -56,8 +56,8 @@
 str = " Atif nabeel"
 
 for char in str:
-    if(char == 'n'):
-        print("n found")
+    if(char == 'e'):
+        print("e found")
         break
     print(char)
 
