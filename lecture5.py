@@ -53,7 +53,7 @@
 #     print(val)
 #     print(type(tup))
 
-str = " *** kashif nabeel ***"
+str = " Atif nabeel"
 
 for char in str:
     if(char == 'n'):
