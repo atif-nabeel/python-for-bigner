@@ -67,5 +67,9 @@
 #     print(len(str))
 
 num = [ 34,67,97,57,45,98]
+x = 67 
 for num in num:
+    if (num == 'x'):
+        print("x is ",x)
+
     print(num)
