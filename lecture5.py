@@ -67,5 +67,5 @@
 #     print(len(str))
 
 num = [ 34,67,97,57,45,98]
-for val in num:
-    print(val)
+for num in num:
+    print(num)
