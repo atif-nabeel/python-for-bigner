@@ -77,7 +77,7 @@
 # print(seq[0])
 # print(seq[1])
 # print(seq[2])
-seq = range(10)
+seq = range(100)
 for i in range(7,10):
     print(i)
   
