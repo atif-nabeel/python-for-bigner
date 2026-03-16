@@ -77,7 +77,10 @@
 # print(seq[0])
 # print(seq[1])
 # print(seq[2])
-seq = range(100)
-for i in range(100 ,0,-1):
-    print(i)
+# seq = range(100)
+# for i in range(100 ,0,-1):
+#     print(i)
+n = int(input("enter num :"))
+for i in range (1,11):
+    print(n*i)
   
