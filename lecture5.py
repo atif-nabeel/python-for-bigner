@@ -78,6 +78,6 @@
 # print(seq[1])
 # print(seq[2])
 seq = range(100)
-for i in range(1,100):
+for i in range(100 ,0,-1):
     print(i)
   
