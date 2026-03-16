@@ -80,7 +80,11 @@
 # seq = range(100)
 # for i in range(100 ,0,-1):
 #     print(i)
-n = 9
-for i in range (-1,-11):
-    print(n*i)
-  
+# n = 9
+# for i in range (1,11):
+#     print(n*i)
+for i in range(10):
+  pass 
+if i>5:
+    pass
+print("Faaaaaaaaaaaah")
