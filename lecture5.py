@@ -83,8 +83,15 @@
 # n = 9
 # for i in range (1,11):
 #     print(n*i)
-for i in range(10):
-  pass 
-if i>5:
-    pass
-print("Faaaaaaaaaaaah")
+
+# for i in range(10):
+#   pass 
+# if i>5:
+#     pass
+# print("Faaaaaaaaaaaah")
+
+n = 5 
+sum = 0
+for i in range (1,n+1):
+    sum +=i
+print("total sum =",sum)
