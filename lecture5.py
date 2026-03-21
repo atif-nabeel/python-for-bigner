@@ -103,7 +103,7 @@
 #     i+=1
 #     print("total sum =",sum)
 n =20
-fact = 2
-for i in range(2,n+1):
+fact = 5
+for i in range(5,n+1):
     fact *= i
     print("factorial =",fact)
