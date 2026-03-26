@@ -178,7 +178,7 @@ print("******* ")
 # else:
 #     print("D is largest  :",d)
 # print(" ***code end ***")
-x = int(input("enter number :"))
+x = 34
 if (x % 17 == 0):
     print("multiple of 17 :",x)
 else:
