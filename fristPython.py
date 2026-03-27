@@ -159,7 +159,7 @@
 # num = 77
 # remainder = num % 2
 # print("remaainder is :",remainder)
-print("******* ")
+# print("******* ")
 # a = int(input("enter value of a : "))
 
 # b = int(input("enter value of b :"))
@@ -177,12 +177,12 @@ print("******* ")
 #     print(" E is largest :",e)
 # else:
 #     print("D is largest  :",d)
-# print(" ***code end ***")
-x = 34
-if (x % 17 == 0):
-    print("multiple of 17 :",x)
+print(" ***code end ***")
+x = 600
+if (x % 15== 0):
+    print("multiple of 15:",x)
 else:
-    print("not multiple of  17")
+    print("not multiple of  15")
 print(" code is end")
 
 
