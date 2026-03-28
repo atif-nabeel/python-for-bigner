@@ -178,11 +178,11 @@
 # else:
 #     print("D is largest  :",d)
 print(" ***code end ***")
-x = 600
-if (x % 15== 0):
-    print("multiple of 15:",x)
+x = 800
+if (x % 19== 0):
+    print("multiple of 19:",x)
 else:
-    print("not multiple of  15")
+    print("not multiple of  19")
 print(" code is end")
 
 
