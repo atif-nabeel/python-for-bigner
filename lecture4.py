@@ -22,33 +22,33 @@
 
 
 
-# # print(null_dict)
-# Student ={
-#   # new_dict = { "city" : "islamabad", " age " : 16}
-#   "name" : " Atif nabeel",
-#   "age" : 20,
-#   "city" : " lahore"
-#   "score" : {
-#     "comput" : 98,
-#     "math" : 98,
-#     "phy" : 97,
-#   }
-# }
-# print(Student.keys())
-# print(list(Student.keys()))
-# print(Student.values())
-# print(list(Student.values()))
-# print(list(Student.items()))
-# print(Student.get("name"))
-# print(Student.get("name2"))
-# # Student.update({"name":"kashif"})
-# new_dict = { "city" : "islamabad", " age " : 16}
-# Student.update(new_dict)
-# print(Student)
-# collection = {1,2,3,4,6,9}
-# set2 = {1,5,7,8,10,12}
-# print(collection.union(set2))
-# print(collection.intersection(set2))
+# print(null_dict)
+Student ={
+  # new_dict = { "city" : "islamabad", " age " : 16}
+  "name" : " Atif nabeel",
+  "age" : 20,
+  "city" : " lahore"
+  "score" : {
+    "comput" : 98,
+    "math" : 98,
+    "phy" : 97,
+  }
+}
+print(Student.keys())
+print(list(Student.keys()))
+print(Student.values())
+print(list(Student.values()))
+print(list(Student.items()))
+print(Student.get("name"))
+print(Student.get("name2"))
+# Student.update({"name":"kashif"})
+new_dict = { "city" : "islamabad", " age " : 16}
+Student.update(new_dict)
+print(Student)
+collection = {1,2,3,4,6,9}
+set2 = {1,5,7,8,10,12}
+print(collection.union(set2))
+print(collection.intersection(set2))
 i = 5
 while i < 6 :
   print(i)
