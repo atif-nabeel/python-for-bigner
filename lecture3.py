@@ -37,7 +37,7 @@
 # movies .append(mov2)
 # movies .append (mov3)
 # print(movies)
-grade = ["A" ,"D","A","F","A","B","C","B"]
+grade = ["A" ,"D","S", "A","F","A","B","C","B","F"]
 grade.sort()
 print(grade)
 
