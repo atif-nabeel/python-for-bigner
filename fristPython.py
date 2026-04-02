@@ -1,24 +1,24 @@
 # relational"
 
-# num = 10
+num = 10
 
-# num **= 5
-# print(a == b)
-# print(a != b)
-# print(a >= b)
-# print(a > b)
-# print(a <= b)
-#  print(a < b)
-# print ("num :", num)
-# print("***logical operator***")
-# a = 50
-# b = 30
-# val1 , val2= True,True
-# print("1 OR operator:", val1 and val2)
-# val3 , val4 = False, True
-# print("2 OR operator is :", (a == b) or  (a > b))
-# val5 , val6 = False , False
-# print("3 OR operator is :",(a < b) or  (a < b))
+num **= 5
+print(a == b)
+print(a != b)
+print(a >= b)
+print(a > b)
+print(a <= b)
+ print(a < b)
+print ("num :", num)
+print("***logical operator***")
+a = 50
+b = 30
+val1 , val2= True,True
+print("1 OR operator:", val1 and val2)
+val3 , val4 = False, True
+print("2 OR operator is :", (a == b) or  (a > b))
+val5 , val6 = False , False
+print("3 OR operator is :",(a < b) or  (a < b))
 
 
 # print ( not(a>b))
@@ -177,13 +177,13 @@
 #     print(" E is largest :",e)
 # else:
 #     print("D is largest  :",d)
-print(" ***code end ***")
-x = 800
-if (x % 19== 0):
-    print("multiple of 19:",x)
-else:
-    print("not multiple of  19")
-print(" code is end")
+# print(" ***code end ***")
+# x = 800
+# if (x % 19== 0):
+#     print("multiple of 19:",x)
+# else:
+#     print("not multiple of  19")
+# print(" code is end")
 
 
 
