@@ -6,18 +6,18 @@
 #   "marks" : [ 98,97,96,95],
 #   "subjects" : [ "python","c","javascript","css"],
 # }
-# # print(student)
-# # student["Name"] = "Nabeel"
+print(student)
+student["Name"] = "Nabeel"
 
-# # print(student["Name"])
+print(student["Name"])
 
-# # print(student["age"])
-# # print(student["CGPA"])
-# # print(student["marks"])
-# # print(student["subjects"])
-# # null_dict = {}
-# # null_dict["name"] = " muhammad Faizan "
-# # null_dict["age"] = 20
+print(student["age"])
+print(student["CGPA"])
+print(student["marks"])
+print(student["subjects"])
+null_dict = {}
+null_dict["name"] = " muhammad Faizan "
+null_dict["age"] = 20
 
 
 
