@@ -20,8 +20,8 @@ print(list.append(8))
 print(list)
 print(list.sort())
 print(list)
-# print(list.sort(reverse=True))
-# print(list)
+print(list.sort(reverse=True))
+print(list)
 
 
 # print(list.insert(1,9))
