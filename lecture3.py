@@ -24,8 +24,8 @@ print(list.sort(reverse=True))
 print(list)
 
 
-# print(list.insert(1,9))
-# print(list)
+print(list.insert(1,9))
+print(list)
 # print(list.pop(2))
 # print(list)
 # print("*** ******")
