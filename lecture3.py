@@ -1,5 +1,5 @@
-marks = [66.7,88.9,56.9,93.5]
-print(marks)
+# marks = [66.7,88.9,56.9,93.5]
+# print(marks)
 # print(type(marks))
 # print(marks[0])
 # print (marks[1])
@@ -13,9 +13,9 @@ print(marks)
 # print(marks[3 : ])
 # print(marks[-3:-1])
 # print(len(marks[1:4]))
-# print("********")
-# list =[ 3,5,4,6,2,1,7]
-# print(list)
+print("********")
+list =[ 3,5,4,6,2,1,7]
+print(list)
 # print(list.append(8))
 # print(list)
 # print(list.sort())
