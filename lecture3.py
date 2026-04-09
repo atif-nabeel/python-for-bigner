@@ -28,7 +28,7 @@ print(list.insert(1,9))
 print(list)
 print(list.pop(2))
 print(list)
-# print("*** ******")
+print("*** ******")
 # movies = []
 # movies .append(input("enter 1st movie :"))
 # movies .append( input("enter 2nd movie :"))
