@@ -29,7 +29,7 @@ print(list)
 print(list.pop(2))
 print(list)
 print("*** ******")
-# movies = []
+movies = []
 # movies .append(input("enter 1st movie :"))
 # movies .append( input("enter 2nd movie :"))
 # movies.append (input("enter 3rd movie :"))
