@@ -30,16 +30,16 @@ print(list.pop(2))
 print(list)
 print("*** ******")
 movies = []
-# movies .append(input("enter 1st movie :"))
-# movies .append( input("enter 2nd movie :"))
-# movies.append (input("enter 3rd movie :"))
-# movies .append(mov1)
-# movies .append(mov2)
-# movies .append (mov3)
-# print(movies)
-# grade = ["A" ,"D","S", "A","F","A","B","C","B","F"]
-# grade.sort()
-# print(grade)
+movies .append(input("enter 1st movie :"))
+movies .append( input("enter 2nd movie :"))
+movies.append (input("enter 3rd movie :"))
+movies .append(mov1)
+movies .append(mov2)
+movies .append (mov3)
+print(movies)
+grade = ["A" ,"D","S", "A","F","A","B","C","B","F"]
+grade.sort()
+print(grade)
 
 # print(grade.count("B"))
 
