@@ -41,8 +41,8 @@ grade = ["A" ,"D","S", "A","F","A","B","C","B","F"]
 grade.sort()
 print(grade)
 
-# print(grade.count("B"))
+print(grade.count("B"))
 
-# print(len(grade))
+print(len(grade))
 
 
