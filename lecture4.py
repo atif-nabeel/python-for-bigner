@@ -3,11 +3,11 @@
 #   "Name" : "Atif",
 #   "CGPA"  : 3.8,
 #   "age"  :  20,
-#   "marks" : [ 98,97,96,95],
-#   "subjects" : [ "python","c","javascript","css"],
-# }
-# print(student)
-# student["Name"] = "Nabeel"
+  "marks" : [ 98,97,96,95],
+  "subjects" : [ "python","c","javascript","css"],
+}
+print(student)
+student["Name"] = "Nabeel"
 
 print(student["Name"])
 
