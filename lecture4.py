@@ -1,8 +1,6 @@
 # print("***** Dictionaries ******")
 # student = {
-  "Name" : "Atif",
-  "CGPA"  : 3.8,
-  "age"  :  20,
+   gi
   "marks" : [ 98,97,96,95],
   "subjects" : [ "python","c","javascript","css"],
 }
@@ -22,8 +20,8 @@ null_dict["age"] = 20
 
 
 
-# print(null_dict)
-# Student ={
+print(null_dict)
+Student ={
 #   # new_dict = { "city" : "islamabad", " age " : 16}
 #   "name" : " Atif nabeel",
 #   "age" : 20,
