@@ -23,10 +23,10 @@ null_dict["age"] = 20
 print(null_dict)
 Student ={
 #   # new_dict = { "city" : "islamabad", " age " : 16}
-#   "name" : " Atif nabeel",
-#   "age" : 20,
-#   "city" : " lahore"
-#   "score" : {
+  "name" : " Atif nabeel",
+  "age" : 20,
+  "city" : " lahore"
+  "score" : {
 #     "comput" : 98,
 #     "math" : 98,
 #     "phy" : 97,
