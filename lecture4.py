@@ -27,11 +27,11 @@ Student ={
   "age" : 20,
   "city" : " lahore"
   "score" : {
-#     "comput" : 98,
-#     "math" : 98,
-#     "phy" : 97,
-#   }
-# }
+    "comput" : 98,
+    "math" : 98,
+    "phy" : 97,
+  }
+}
 # print(Student.keys())
 # print(list(Student.keys()))
 # print(Student.values())
