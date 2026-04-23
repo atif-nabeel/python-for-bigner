@@ -30,10 +30,10 @@ Student ={
     "comput" : 98,
     "math" : 98,
     "phy" : 97,
-  }
+  } 
 }
-# print(Student.keys())
-# print(list(Student.keys()))
+print(Student.keys())
+print(list(Student.keys()))
 # print(Student.values())
 # print(list(Student.values()))
 # print(list(Student.items()))
