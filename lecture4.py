@@ -34,14 +34,14 @@ Student ={
 }
 print(Student.keys())
 print(list(Student.keys()))
-# print(Student.values())
-# print(list(Student.values()))
-# print(list(Student.items()))
-# print(Student.get("name"))
-# print(Student.get("name2"))
-# # Student.update({"name":"kashif"})
-# new_dict = { "city" : "islamabad", " age " : 16}
-# Student.update(new_dict)
+print(Student.values())
+print(list(Student.values()))
+print(list(Student.items()))
+print(Student.get("name"))
+print(Student.get("name2"))
+# Student.update({"name":"kashif"})
+new_dict = { "city" : "islamabad", " age " : 16}
+Student.update(new_dict)
 
 collection = {1,2,99,77,11,23,12,}
 set2 = {1,5,7,8,10,12}
