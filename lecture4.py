@@ -1,5 +1,5 @@
-# print("***** Dictionaries ******")
-# student = {
+print("***** Dictionaries ******")
+student = {
    gi
   "marks" : [ 98,97,96,95],
   "subjects" : [ "python","c","javascript","css"],
