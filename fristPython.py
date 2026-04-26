@@ -1,24 +1,24 @@
 # relational"
 
-num = 10
+# num = 10
 
-num **= 5
-print(a == b)
-print(a != b)
-print(a >= b)
-print(a > b)
-print(a <= b)
- print(a < b)
-print ("num :", num)
-print("***logical operator***")
-a = 50
-b = 30
-val1 , val2= True,True
-print("1 OR operator:", val1 and val2)
-val3 , val4 = False, True
-print("2 OR operator is :", (a == b) or  (a > b))
-val5 , val6 = False , False
-print("3 OR operator is :",(a < b) or  (a < b))
+# num **= 5
+# print(a == b)
+# print(a != b)
+# print(a >= b)
+# print(a > b)
+# print(a <= b)
+#  print(a < b)
+# print ("num :", num)
+# print("***logical operator***")
+# a = 50
+# b = 30
+# val1 , val2= True,True
+# print("1 OR operator:", val1 and val2)
+# val3 , val4 = False, True
+# print("2 OR operator is :", (a == b) or  (a > b))
+# val5 , val6 = False , False
+# print("3 OR operator is :",(a < b) or  (a < b))
 
 
 # print ( not(a>b))
@@ -159,31 +159,31 @@ print("3 OR operator is :",(a < b) or  (a < b))
 # num = 77
 # remainder = num % 2
 # print("remaainder is :",remainder)
-# print("******* ")
-# a = int(input("enter value of a : "))
+print("******* ")
+a = int(input("enter value of a : "))
 
-# b = int(input("enter value of b :"))
-# c = int(input("enter value of c :"))
-# d = int (input("enter value of d :"))
-# e = int(input("enter value of e :"))
+b = int(input("enter value of b :"))
+c = int(input("enter value of c :"))
+d = int (input("enter value of d :"))
+e = int(input("enter value of e :"))
 
-# if(a >= b and a >= c and a >= d and a >= e   ):
-#     print("  A is largest  :",a)
-# elif( b >= c and b >= d and b >= e and b >= a):
-#     print ("B is largest :", b)
-# elif(c >=b and c>=a and c>=d and c>=e):
-#     print("C is largest :",c)
-# elif( e>= a and  e>=b and e>=c and e>=d):
-#     print(" E is largest :",e)
-# else:
-#     print("D is largest  :",d)
-# print(" ***code end ***")
-# x = 800
-# if (x % 19== 0):
-#     print("multiple of 19:",x)
-# else:
-#     print("not multiple of  19")
-# print(" code is end")
+if(a >= b and a >= c and a >= d and a >= e   ):
+    print("  A is largest  :",a)
+elif( b >= c and b >= d and b >= e and b >= a):
+    print ("B is largest :", b)
+elif(c >=b and c>=a and c>=d and c>=e):
+    print("C is largest :",c)
+elif( e>= a and  e>=b and e>=c and e>=d):
+    print(" E is largest :",e)
+else:
+    print("D is largest  :",d)
+print(" ***code end ***")
+x = 800
+if (x % 19== 0):
+    print("multiple of 19:",x)
+else:
+    print("not multiple of  19")
+print(" code is end")
 
 
 
